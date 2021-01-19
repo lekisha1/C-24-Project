@@ -34,7 +34,7 @@ class dustbin
 			rectMode(CENTER)
 			//strokeWeight(4);
 			angleMode(RADIANS)
-			fill("yelow")
+			fill("yellow")
 			stroke(255)
 			rotate(this.angle)
 			rect(0,0,this.wallThickness, this.dustbinHeight);
