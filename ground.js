@@ -22,7 +22,7 @@ class ground
 			translate(groundPos.x, groundPos.y);
 			rectMode(CENTER)
 			strokeWeight(4);
-			fill(255,255,0)
+			fill("red")
 			rect(0,0,this.w, this.h);
 			pop()
 			
